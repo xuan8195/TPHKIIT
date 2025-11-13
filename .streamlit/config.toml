@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#667eea"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#f8fafc"
+textColor = "#1e3a8a"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#f8fafc"
+textColor = "#1e3a8a"
+primaryColor = "#667eea"
+secondaryBackgroundColor = "#FFFFFF"
+
+[server]
+maxUploadSize = 10
+enableXsrfProtection = false
+enableCORS = true
